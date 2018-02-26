@@ -7,8 +7,10 @@
     <tab>standard-Account</tab>
     <tab>standard-Idea</tab>
     <tab>standard-IdeaTheme</tab>
-    <tab>standard-Answers</tab>
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
-    <tab>standard-Questions</tab>
+    <tab>Student__c</tab>
+    <tab>external_information__x</tab>
+    <tab>New_Custom_Object__c</tab>
+    <tab>CustomSettingTestObj12_c__c</tab>
 </CustomApplication>
