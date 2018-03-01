@@ -661,6 +661,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>CustomLabels</members>
+        <name>CustomLabels</name>
+    </types>
+    <types>
         <members>Account</members>
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
@@ -765,6 +769,7 @@
         <name>DuplicateRule</name>
     </types>
     <types>
+        <members>unfiled$public</members>
         <members>unfiled$public/MarketingProductInquiryResponse</members>
         <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
         <members>unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE</members>
@@ -783,6 +788,10 @@
     <types>
         <members>Case.Standard</members>
         <name>EscalationRule</name>
+    </types>
+    <types>
+        <members>Case</members>
+        <name>EscalationRules</name>
     </types>
     <types>
         <members>OrderDB</members>
@@ -955,6 +964,12 @@
         <name>MatchingRule</name>
     </types>
     <types>
+        <members>Account</members>
+        <members>Contact</members>
+        <members>Lead</members>
+        <name>MatchingRules</name>
+    </types>
+    <types>
         <members>PermissionTest11</members>
         <members>Permission_Set_6_org1</members>
         <members>Permission_Set_7_org1</members>
@@ -1059,6 +1074,10 @@
     <types>
         <members>ApexDevNet</members>
         <name>RemoteSiteSetting</name>
+    </types>
+    <types>
+        <members>unfiled$public</members>
+        <name>Report</name>
     </types>
     <types>
         <members>CEO</members>
