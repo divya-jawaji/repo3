@@ -10,8 +10,10 @@
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
     <tab>standard-home</tab>
-    <tab>Custom_Sync_Object__c</tab>
+    <tab>Student__c</tab>
+    <tab>external_information__x</tab>
     <tab>New_Custom_Object__c</tab>
+    <tab>CustomSettingTestObj12_c__c</tab>
     <uiType>Lightning</uiType>
     <utilityBar>LightningService_UtilityBar</utilityBar>
 </CustomApplication>
